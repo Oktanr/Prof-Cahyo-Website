@@ -10,7 +10,7 @@
                             <div class="hero-text">
                                 <p class="wow fadeInUp" data-wow-delay="0.1s">Saya,</p>
                                 <div class="wow fadeInUp" data-wow-delay="0.3s">
-                                    <h1>Dr. Cahyo Budi Utomo, M.Pd</h1>
+                                    <h1>Prof.Dr. Cahyo Budi Utomo, M.Pd</h1>
                                     <h2>{{ $item->herosubtitle }}</h2>
                                 </div>
                             </div>
